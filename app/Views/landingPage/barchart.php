@@ -298,7 +298,7 @@
               "duration": 24,
               "top_n": 12,
               "title": "Data Ekspor Provinsi Lampung berdasarkan Tahun (Januari 2015 - Agustus 2021)",
-              "url": "https://raw.githubusercontent.com/eazycchi/animatedBarChart/main/datasets/20152021tahun.csv"
+              "url": "https://raw.githubusercontent.com/eazycchi/ci-barchart/main/assets/datasets/20152021tahun.csv"
           },
       }
   </script>
